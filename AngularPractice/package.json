@@ -1,0 +1,19 @@
+{
+  "name": "angular-practice",
+  "version": "1.0.0",
+  "description": "This project purposes is to learn Angular and plugins that the TEC project is using:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msalem07/AngularPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msalem07/AngularPractice/issues"
+  },
+  "homepage": "https://github.com/msalem07/AngularPractice#readme"
+}
